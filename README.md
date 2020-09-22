@@ -1,5 +1,5 @@
 # About
-Web scraping of the [UK UPS website](https://www.ups.com/dropoff/) and [UK DPD website](https://www.dpd.co.uk/apps/depotfinder/index.jsp)
+Web scraping of the JavaScript-based [UK UPS website](https://www.ups.com/dropoff/) and [UK DPD website](https://www.dpd.co.uk/apps/depotfinder/index.jsp)
 
 
 ## Content
